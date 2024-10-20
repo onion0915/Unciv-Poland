@@ -14,7 +14,7 @@
 		"feith": 3,
 		"happiness": 2,
 		"culture": 2,
-		"uniques": ["Unbuildable", "Hidden when religion is disabled", "[+50]% Natural religion spread [in this city]" ],
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "[+10]% Natural religion spread [in this city]" ],
 		"requiredTech": "Theology"
 	}
 ]
