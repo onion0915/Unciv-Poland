@@ -3,18 +3,20 @@
 		"name": "騎兵学校",
 		"replaces": "Military Academy",
 		"uniqueTo": "ポーランド",
-		"cost": 480,
+		"hurryCostModifier": 0,
+		"cost": 285,
+		"maintenance": 1,
+		"uniques" ["[+20]% Production when constructing [Mounted] units [in this city]", "New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"]:,
 		"requiredTech": "Military Science"
 	},
 	{
 		"name": "聖十字架教会",
 		"replaces": "Cathedral",
 		"uniqueTo": "ポーランド",
-		"cost": 143,
-		"feith": 3,
+		"cost": 0,
+		"feith": 4,
 		"happiness": 2,
-		"culture": 2,
-		"uniques": ["Unbuildable", "Hidden when religion is disabled", "[+10]% Natural religion spread [in this city]" ],
-		"requiredTech": "Theology"
+		"culture": 3,
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "[+15]% Natural religion spread [in this city]" ]
 	}
 ]
