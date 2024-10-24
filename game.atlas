@@ -1,34 +1,27 @@
 
 game.png
-size: 512, 128
+size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
+BuildingIcons/騎兵学校
   rotate: false
-  xy: 112, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 213
+  size: 640, 640
+  orig: 640, 640
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+NationIcons/ポーランド
   rotate: false
-  xy: 220, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 652, 753
+  size: 160, 100
+  orig: 160, 100
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+UnitIcons/ユサール
   rotate: false
   xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Phasers
-  rotate: false
-  xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
+  size: 176, 201
+  orig: 176, 201
   offset: 0, 0
   index: -1
